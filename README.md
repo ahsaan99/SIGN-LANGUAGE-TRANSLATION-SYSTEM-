@@ -198,6 +198,8 @@ MediaPipe assigns a number (0–20) to every key point on your hand:
 
 ## 🎨 UI Layout
 
+<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/bfb6034b-718f-4e1a-aba1-05645864b085" />
+
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │  ✋  Sign Language Recognition          LIVE ●    30 fps         │  ← Header
