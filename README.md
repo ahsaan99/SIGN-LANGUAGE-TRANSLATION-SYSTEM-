@@ -161,6 +161,7 @@ That's it. The window opens, your camera turns on, and detection starts immediat
 ### 🗺️ The 21 Hand Landmarks
 
 MediaPipe assigns a number (0–20) to every key point on your hand:
+<img width="738" height="258" alt="image" src="https://github.com/user-attachments/assets/c5ccdead-a2d6-495f-9a09-df40f2b2d8ac" />
 
 ```
                     8   12  16  20
