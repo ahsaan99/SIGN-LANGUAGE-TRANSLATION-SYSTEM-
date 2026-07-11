@@ -11,7 +11,7 @@ import pyttsx3
 
 
 
-# ── MediaPipe setup   ──────────────────────────────────────────────
+# ── MediaPipe setup s  ──────────────────────────────────────────────
 mp_hands = mp.solutions.hands
 mp_draw  = mp.solutions.drawing_utils
 mp_styles = mp.solutions.drawing_styles
