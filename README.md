@@ -398,7 +398,7 @@ Just keep the credits intact. ✌️
 
 <div align="center">
 
-### Built with ❤️ using Python · OpenCV · MediaPipe
+### Built with ❤️ using Python  · OpenCV · MediaPipe
 
 *Made for school exhibitions, hackathons, and anyone curious about computer vision.*
 
