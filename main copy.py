@@ -116,7 +116,7 @@ class SignLanguageApp:
         self.root.configure(bg=BG)
         self.root.minsize(1060, 680)
 
-        # State
+        # States
         self.running      = True
         self.paused       = False
         self.cap          = None
